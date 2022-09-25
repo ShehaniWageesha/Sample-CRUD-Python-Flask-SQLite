@@ -1,3 +1,13 @@
-API REST - Flask, Python, SQLite3, JSON
+# API REST - Flask, Python, SQLite3, JSON
+Here is a simple example for a Python Flask CRUD App for SQLite.
+<br/><br/>
 
-Simple example python flask crud app for sqlite
+## Clone the repository
+```sh
+git clone https://github.com/ShehaniWageesha/Flask-SQLite-CRUD.git
+```
+
+## Run the server
+```sh
+python main.py
+```

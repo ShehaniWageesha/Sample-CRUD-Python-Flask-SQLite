@@ -1,4 +1,4 @@
-# API REST - Flask, Python, SQLite3, JSON
+# API REST - Flask, Python, SQLite, JSON
 Here is a simple example for a Python Flask CRUD App for SQLite.
 <br/><br/>
 
